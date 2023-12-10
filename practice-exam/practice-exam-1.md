@@ -520,4 +520,5 @@ If this practice exam has been helpful to you please share it with others and re
 
 Please feel free to comment below if any information is inaccurate or if any answers need correction.
 
+Isn't the server side encryption the responsibility of Cloud Service Provider? Q43
 [<img align="center" src="../images/list.png" height="30" width="30"/> Exam List](../practice-exam/exams.md)
